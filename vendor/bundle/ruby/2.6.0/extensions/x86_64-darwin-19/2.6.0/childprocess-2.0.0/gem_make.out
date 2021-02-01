@@ -1,0 +1,5 @@
+current directory: /Users/yunosuke/environment/hello_app/vendor/bundle/ruby/2.6.0/gems/childprocess-2.0.0/ext
+/Users/yunosuke/.rbenv/versions/2.6.6/bin/ruby mkrf_conf.rb
+
+current directory: /Users/yunosuke/environment/hello_app/vendor/bundle/ruby/2.6.0/gems/childprocess-2.0.0/ext
+/Users/yunosuke/.rbenv/versions/2.6.6/bin/ruby -rrubygems /Users/yunosuke/environment/hello_app/vendor/bundle/ruby/2.6.0/gems/rake-12.3.3/exe/rake RUBYARCHDIR\=/Users/yunosuke/environment/hello_app/vendor/bundle/ruby/2.6.0/extensions/x86_64-darwin-19/2.6.0/childprocess-2.0.0 RUBYLIBDIR\=/Users/yunosuke/environment/hello_app/vendor/bundle/ruby/2.6.0/extensions/x86_64-darwin-19/2.6.0/childprocess-2.0.0
